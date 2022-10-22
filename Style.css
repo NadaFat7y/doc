@@ -11,7 +11,7 @@
 .hero {
     padding: 10px 20px;
     background-color: #FFC12B;
-    background: url(img/Group\ 1.png);
+    background: url(Group\ 1.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -125,7 +125,7 @@ i {
 .About-us {
     padding: 170px 20px;
     height: 100vh;
-    background: url(/img/about.jpg) no-repeat;
+    background: url(about.jpg) no-repeat;
     background-size: 800px;
     background-position: right;
 }
